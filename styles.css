@@ -72,7 +72,6 @@ p {
     letter-spacing: 1px;
     border: none;
     cursor: pointer;
-    background: transparent;
 }
 
 @media screen and (max-width: 1000px) {
